@@ -15,8 +15,10 @@ bash scripts are executed by typing the name of the script in the terminal windo
 # shebang
 Shebang: The first line of a Bash script is known as the "shebang" and specifies the interpreter to be used to run the script
 It is basically an absolute path to the bash interpreter.
+#!--this represents which enterpreter a script should be interpreted with
  The shebang for Bash scripts is usually-
-# !/bin/bash
+# !/bin/bash 
+this is a header command which reprsents it is a bash /shell script
 To create and run a simple Bash script that prints "Hello, World!", follow these steps:
  # Step 1: Create the Script File
 Open your terminal and create a new file named hello_world.sh using the touch command:
