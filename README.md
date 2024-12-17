@@ -1,3 +1,7 @@
+# linux
+Linux is an open-source, Unix-like operating system that has gained immense popularity since its inception in 1991 by Linus Torvalds. It is designed to be versatile and can run on various hardware platforms, including servers, desktops, and embedded devices
+Linux is a community-developed operating system that serves as the foundation for numerous distributions (distros), such as Ubuntu, Fedora, and Debian. It operates under the GNU General Public License (GPL), which allows users to run, study, modify, and redistribute the source code freely.
+
 # linux-bash
 Bash, short for Bourne Again Shell,
 is a command-line interface and scripting language used primarily in Unix-based operating systems, including Linux and macOS.
