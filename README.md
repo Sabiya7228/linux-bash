@@ -1,9 +1,11 @@
 # linux
 Linux is an open-source, Unix-like operating system that has gained immense popularity since its inception in 1991 by Linus Torvalds. It is designed to be versatile and can run on various hardware platforms, including servers, desktops, and embedded devices
 Linux is a community-developed operating system that serves as the foundation for numerous distributions (distros), such as Ubuntu, Fedora, and Debian. It operates under the GNU General Public License (GPL), which allows users to run, study, modify, and redistribute the source code freely.
-
-# linux-bash
-Bash, short for Bourne Again Shell,
+# basics of shell 
+The shell is a command-line interface that allows users to interact with the operating system by executing commands. In Linux, the shell provides a powerful environment for managing files, running programs, and performing system administration tasks. This overview will cover the basics of the shell, including its types, common commands, and functionalities.
+shell simply executes the commands, shell instructs the kernals. 
+# top shells
+# 1 Bash, short for Bourne Again Shell,
 is a command-line interface and scripting language used primarily in Unix-based operating systems, including Linux and macOS.
  In other words, it provides users with a simple and efficient way to interact with the system and perform a variety of tasks, such as creating files, editing text, and managing processes.
  It serves as a shell that allows users to interact with the operating system by executing commands and running script
